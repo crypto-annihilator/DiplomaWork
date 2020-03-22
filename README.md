@@ -1,0 +1,2 @@
+# DiplomaWork
+my diploma work
